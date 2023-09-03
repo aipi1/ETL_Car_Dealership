@@ -6,7 +6,7 @@ Simple ETL pipeline for extracting data from different file types, transforming 
 
 * **ETL_Car_Dealership.ipynb** - contains python code for ETL pipeline itself;
 
-* **datasource.zip** and **dealership_data** folder - hold sample of raw data split across different types of files;
+* **datasource.zip** and **dealership_data** folder - hold sample of raw data distributed across different types of files;
 
 * **logs.txt** - contains ETL log data;
 
